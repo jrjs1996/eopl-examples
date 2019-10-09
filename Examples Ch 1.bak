@@ -1,7 +1,0 @@
-#lang eopl
-
-;; duple : int  any -> ListOf(any)
-;; usage: Takes a value X and int n and returns a list of length n with each value being X.
-(define duple
-  (lambda n x
-    n))
